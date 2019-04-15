@@ -1,0 +1,19 @@
+{
+  "name": "6ees6ees6ees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "open test/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.1",
+    "jquery": "^3.2.1",
+    "mocha": "^3.5.0"
+  }
+}
